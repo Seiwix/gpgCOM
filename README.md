@@ -1,2 +1,2 @@
 # gpgCOM
-complete german playgroup webpage
+complete Germany Playgroup Webpage
