@@ -1,3 +1,2 @@
 # gpgCOM
-complete Germany Playgroup Webpage
-https://beta.germany-playsgroup.de
+<p>complete Germany Playgroup Webpage<p><a href="https://beta.germany-playsgroup.de" target="_blank" >Link  to Page</a>
